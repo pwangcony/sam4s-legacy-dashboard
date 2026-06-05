@@ -1,0 +1,6 @@
+{
+  "name": "레거시 전환 대시보드",
+  "description": "클래식 ASP에서 Next.js로의 전환을 보여주는 아키텍처 비교표 디자인 샘플",
+  "requestFramePermissions": [],
+  "author": "solutionDev_SJ"
+}
